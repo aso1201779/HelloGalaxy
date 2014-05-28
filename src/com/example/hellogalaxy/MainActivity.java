@@ -1,4 +1,6 @@
-package com.example.helloandroid;
+package com.example.hellogalaxy;
+
+import com.example.helloandroid.R;
 
 import android.app.Activity;
 import android.app.Fragment;
